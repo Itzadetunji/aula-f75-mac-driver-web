@@ -1,0 +1,25 @@
+# AULA F75 Mac Driver
+
+> Free, open-source macOS driver for the AULA F75 keyboard. It replaces the Windows-only vendor app so you can customise the keyboard on a Mac.
+
+- Website: https://aula-f75-itzadetunji.com
+- Source code: https://github.com/Itzadetunji/aula-f75-mac-driver
+- Download (latest .dmg): https://github.com/Itzadetunji/aula-f75-mac-driver/releases/latest
+- Demo video: https://www.youtube.com/watch?v=Qc0JmPmlfGw
+- Author: Adetunji Adeyinka (https://itzadetunji.com)
+
+## Features
+
+- Live RGB lighting: static, breathing, spectrum, wave and per-key colours
+- Music visualiser that lights the keyboard to whatever the Mac is playing (system audio only, no microphone)
+- Read and edit the lighting effects saved on the keyboard (brightness, speed, colour)
+- 2.4 GHz dongle support for live lighting and the music visualiser
+- Macros: global shortcuts that type text anywhere on macOS, with JSON/TXT import and export
+- Keyboard settings: sleep timer and debounce (over the USB cable)
+- Menu bar item to pause, resume and switch lighting modes
+- Languages: English, French, Spanish and Chinese
+
+## Requirements
+
+- macOS 13 Ventura or later, Apple Silicon or Intel
+- An AULA F75 connected by USB cable or the 2.4 GHz dongle

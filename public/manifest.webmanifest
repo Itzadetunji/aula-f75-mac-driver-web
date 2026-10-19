@@ -1,0 +1,21 @@
+{
+  "name": "AULA F75 Mac Driver",
+  "short_name": "AULA F75",
+  "description": "Free, open-source macOS driver for the AULA F75 keyboard.",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/logo.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#000000"
+}

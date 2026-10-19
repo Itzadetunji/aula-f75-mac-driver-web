@@ -13,7 +13,7 @@ function HomePage() {
 					<iframe
 						className="absolute inset-0 h-full w-full"
 						src={`https://www.youtube-nocookie.com/embed/${YOUTUBE_VIDEO_ID}?rel=0`}
-						title="AULA F75 Mac Driver demo"
+						title="AULA F75 Mac Driver demo: RGB lighting, macros and customisation on macOS"
 						allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
 						referrerPolicy="strict-origin-when-cross-origin"
 						allowFullScreen
@@ -23,6 +23,9 @@ function HomePage() {
 
 			<section className="flex w-full max-w-3xl flex-col items-center gap-8 px-6 pb-24 text-center">
 				<div className="flex flex-col items-center gap-4">
+					<p className="text-xs font-medium tracking-[0.2em] text-muted-foreground uppercase">
+						AULA F75 Mac Driver
+					</p>
 					<h1 className="text-4xl font-bold leading-[1.05] tracking-tight text-balance sm:text-5xl">
 						Your AULA F75, finally at home on the Mac.
 					</h1>
