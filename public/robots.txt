@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://aula-f75-itzadetunji.com/sitemap.xml
+Sitemap: https://aula-f75.itzadetunji.com/sitemap.xml

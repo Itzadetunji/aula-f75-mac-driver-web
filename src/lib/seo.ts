@@ -5,7 +5,7 @@ import {
 	YOUTUBE_VIDEO_ID,
 } from "#/lib/links";
 
-export const SITE_URL = "https://aula-f75-itzadetunji.com";
+export const SITE_URL = "https://aula-f75.itzadetunji.com";
 
 export const SITE_NAME = "AULA F75 Mac Driver";
 

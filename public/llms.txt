@@ -2,7 +2,7 @@
 
 > Free, open-source macOS driver for the AULA F75 keyboard. It replaces the Windows-only vendor app so you can customise the keyboard on a Mac.
 
-- Website: https://aula-f75-itzadetunji.com
+- Website: https://aula-f75.itzadetunji.com
 - Source code: https://github.com/Itzadetunji/aula-f75-mac-driver
 - Download (latest .dmg): https://github.com/Itzadetunji/aula-f75-mac-driver/releases/latest
 - Demo video: https://www.youtube.com/watch?v=Qc0JmPmlfGw
