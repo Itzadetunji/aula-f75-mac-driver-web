@@ -3,7 +3,7 @@ export const GITHUB_REPO_URL =
 
 export const DOWNLOAD_URL = `${GITHUB_REPO_URL}/releases/latest`;
 
-export const AUTHOR_GITHUB_URL = "https://github.com/itzadetunji";
+export const AUTHOR_WEB_URL = "https://itzadetunji.com";
 
 export const YOUTUBE_VIDEO_ID = "Qc0JmPmlfGw";
 

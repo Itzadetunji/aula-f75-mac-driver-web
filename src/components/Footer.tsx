@@ -1,5 +1,5 @@
 import { useGetCounts } from "@itzadetunji/counter";
-import { AUTHOR_GITHUB_URL, COUNTER_APP_ID } from "#/lib/links";
+import { AUTHOR_WEB_URL, COUNTER_APP_ID } from "#/lib/links";
 
 function VisitCount() {
 	const { data } = useGetCounts({ appId: COUNTER_APP_ID });
@@ -19,7 +19,7 @@ export default function Footer() {
 				<p className="text-sm text-muted-foreground">
 					Built by{" "}
 					<a
-						href={AUTHOR_GITHUB_URL}
+						href={AUTHOR_WEB_URL}
 						target="_blank"
 						rel="noopener noreferrer"
 						className="font-medium text-foreground underline decoration-foreground underline-offset-[3px] transition-opacity hover:opacity-70"
