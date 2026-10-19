@@ -1,0 +1,8 @@
+export const GITHUB_REPO_URL =
+	"https://github.com/Itzadetunji/aula-f75-mac-driver";
+
+export const DOWNLOAD_URL = `${GITHUB_REPO_URL}/releases/latest`;
+
+export const AUTHOR_GITHUB_URL = "https://github.com/itzadetunji";
+
+export const YOUTUBE_VIDEO_ID = "Qc0JmPmlfGw";
