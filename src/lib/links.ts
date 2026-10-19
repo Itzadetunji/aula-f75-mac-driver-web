@@ -6,3 +6,5 @@ export const DOWNLOAD_URL = `${GITHUB_REPO_URL}/releases/latest`;
 export const AUTHOR_GITHUB_URL = "https://github.com/itzadetunji";
 
 export const YOUTUBE_VIDEO_ID = "Qc0JmPmlfGw";
+
+export const COUNTER_APP_ID = "27c0-8911";

@@ -1,6 +1,8 @@
+import { useCounter } from "@itzadetunji/counter";
 import { createRootRoute, HeadContent, Scripts } from "@tanstack/react-router";
 import Footer from "#/components/Footer";
 import Header from "#/components/Header";
+import { COUNTER_APP_ID } from "#/lib/links";
 import appCss from "#/styles.css?url";
 
 const TITLE = "AULA F75 Mac Driver";
@@ -33,6 +35,12 @@ export const Route = createRootRoute({
 });
 
 function RootDocument({ children }: { children: React.ReactNode }) {
+	useCounter({
+		appId: COUNTER_APP_ID,
+		singleVisit: true,
+		enabled: import.meta.env.PROD,
+	});
+
 	return (
 		<html lang="en">
 			<head>
